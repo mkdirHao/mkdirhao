@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on kubernetes
-- 🌱 I’m currently learning kubernetes istio microService ...
+- 🔭 I’m currently focus on interesting technology
+- 🌱 Just for happiness, no matter what ...
 - 📫 How to reach me: mkdirhao@qq.com
-
 
 <!--
 **mkdirHao/mkdirhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
